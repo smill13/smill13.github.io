@@ -1,0 +1,41 @@
+body {
+    background-image: url(./Fondo-lobo.jpg);
+    background-size: cover;   
+}
+
+.cabeza {
+    position: relative;
+    color: white;
+    font-size: 30px;
+}
+
+ p, ul, h2 {
+    
+    color: white;
+}
+
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.div-agrupar {
+    width: 1000px ;
+    margin: 15px auto;
+    background-color: rgb(18, 17, 17) ;
+    padding: 15px;
+}
+
+.lista li a {
+    text-decoration: none;
+    padding: 5px;
+    color: rgb(150, 21, 255);
+}
+
+.lista li {
+    list-style: none;
+}
+
+footer {
+     margin-bottom: 152px;
+     color: white; 
+ }
